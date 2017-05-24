@@ -1,0 +1,23 @@
+{
+  "name": "horoscoper",
+  "version": "1.0.0",
+  "description": "Horosoper with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://wirtaw@bitbucket.org/poplauki/horoscoper.git"
+  },
+  "keywords": [
+    "horoscope",
+    "teller"
+  ],
+  "author": "Vladimir Poplavskij",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/poplauki/horoscoper#readme",
+  "devDependencies": {
+    "webpack": "^2.6.0"
+  }
+}
