@@ -1,7 +1,8 @@
 repo_name: wirtaw/Horoscoper
-report_id: 95ee60c9e4acfe9ac1168d6455f4c059
+report_id: ba9c807ade84ce24fc62d15b5c1f9706
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:26:49+00:00'
+timestamp: '2024-01-05T08:50:37+00:00'
 requested_by: wirtaw
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/wirtaw/Horoscoper
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -68,6 +70,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/wirtaw/Horoscoper/blob/master/package.json
   detection_source: package.json
   last_updated_by: Vladimir Poplavskij
   last_updated_on: 2017-05-24 19:47:35.000000000 Z
@@ -79,6 +82,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/wirtaw/Horoscoper
   detection_source: Repo Metadata
 - name: Webpack
   description: A bundler for javascript and friends
@@ -102,6 +106,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/wirtaw/Horoscoper/blob/master/package.json
   detection_source: package.json
   last_updated_by: Vladimir Poplavskij
   last_updated_on: 2017-05-24 19:47:35.000000000 Z
@@ -111,6 +116,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/wirtaw/Horoscoper/blob/master/app/index.html
   detection_source: app/index.html
   last_updated_by: Vladimir Poplavskij
   last_updated_on: 2017-05-24 19:47:35.000000000 Z
